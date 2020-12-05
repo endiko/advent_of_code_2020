@@ -10,7 +10,7 @@ import (
 
 func main() {
 	year := 2020
-	nums := make(map[int]int)
+	nums := make(map[int]struct{})
 
 	bs, err := ioutil.ReadFile("input.txt")
 
@@ -21,7 +21,7 @@ func main() {
 
 	s := strings.Split(string(bs), "\n")
 
-	for i, num := range s {
+	for _, num := range s {
 		curr, err := strconv.Atoi(num)
 
 		if err != nil {
@@ -36,12 +36,12 @@ func main() {
 			os.Exit(0)
 		}
 
-		nums[curr] = i
+		nums[curr] = struct{}{}
 	}
 
 }
 
-func findNum(target int, hash map[int]int) (bool, int) {
+func findNum(target int, hash map[int]struct{}) (bool, int) {
 	for key := range hash {
 		temp := target - key
 
