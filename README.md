@@ -1,4 +1,4 @@
-# Solutions for Advent of code 2020 challenge experience with Golang(Go)
+### Solutions for Advent of code 2020 challenge experience with Golang(Go)
 
 
 - [x] [--- Day 1: Report Repair ---](https://adventofcode.com/2020/day/1) :star: :star:   [Solutions](https://github.com/endiko/advent_of_code_2020/tree/main/01)
