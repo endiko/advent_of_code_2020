@@ -3,3 +3,25 @@
 - [x] [--- Day 1: Report Repair ---](https://adventofcode.com/2020/day/1) :star: :star:
 - [x] [--- Day 2: Password Philosophy ---](https://adventofcode.com/2020/day/2) :star: :star:
 - [x] [--- Day 3: Toboggan Trajectory ---](https://adventofcode.com/2020/day/3) :star: :star:
+- [x] [--- Day 4: Passport Processing ---](https://adventofcode.com/2020/day/4) :star: :star:
+- [x] [--- Day 5: Binary Boarding ---](https://adventofcode.com/2020/day/5) :star: :star:
+- [x] [--- Day 6: Custom Customs ---](https://adventofcode.com/2020/day/6) :star: :star:
+- [x] [--- Day 7: Handy Haversacks ---](https://adventofcode.com/2020/day/7) :star: :star:
+- [x] [--- Day 8: Handheld Halting ---](https://adventofcode.com/2020/day/8) :star: :star:
+- [x] [--- Day 9: Encoding Error ---](https://adventofcode.com/2020/day/9) :star: :star:
+- [x] [--- Day 10: Adapter Array ---](https://adventofcode.com/2020/day/10) :star: :star:
+- [x] [--- Day 11: Seating System ---](https://adventofcode.com/2020/day/11) :star: :star:
+- [x] [--- Day 12: Rain Risk ---](https://adventofcode.com/2020/day/12) :star: :star:
+- [x] [--- Day 13: Shuttle Search ---](https://adventofcode.com/2020/day/13) :star:
+- [x] [--- Day 14: Docking Data ---](https://adventofcode.com/2020/day/14) :star: :star:
+- [x] [--- Day 15: Rambunctious Recitation ---](https://adventofcode.com/2020/day/15) :star: :star:
+- [x] [--- Day 16: Ticket Translation ---](https://adventofcode.com/2020/day/16) :star: :star:
+- [x] [--- Day 17: Conway Cubes ---](https://adventofcode.com/2020/day/17) :star: :star:
+- [x] [--- Day 18: Operation Order ---](https://adventofcode.com/2020/day/18) :star:
+- [x] [--- Day 19: Monster Messages ---](https://adventofcode.com/2020/day/19) :star:
+- [x] [--- Day 20: Jurassic Jigsaw ---](https://adventofcode.com/2020/day/20) :star:
+- [x] [--- Day 21: Allergen Assessment ---](https://adventofcode.com/2020/day/21) :star: :star:
+- [x] [--- Day 22: Crab Combat ---](https://adventofcode.com/2020/day/22) :star: :star:
+- [x] [--- Day 23: Crab Cups ---](https://adventofcode.com/2020/day/23) :star: :star:
+- [x] [--- Day 24: Lobby Layout ---](https://adventofcode.com/2020/day/24) :star: :star:
+- [x] [--- Day 25: Combo Breaker ---](https://adventofcode.com/2020/day/25) :star:
