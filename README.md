@@ -14,7 +14,7 @@
 - [x] [--- Day 12: Rain Risk ---](https://adventofcode.com/2020/day/12) :star: :star: [Solutions](https://github.com/endiko/advent_of_code_2020/tree/main/12)
 - [x] [--- Day 13: Shuttle Search ---](https://adventofcode.com/2020/day/13) :star: [Solutions](https://github.com/endiko/advent_of_code_2020/tree/main/13)
 - [x] [--- Day 14: Docking Data ---](https://adventofcode.com/2020/day/14) :star: :star: [Solutions](https://github.com/endiko/advent_of_code_2020/tree/main/14)
-- [x] [--- Day 15: Rambunctious Recitation ---](https://adventofcode.com/2020/day/15) :star: :star: [Solutions](https://github.com/endiko/advent_of_code_2020/tree/main/15)
+- [x] [--- Day 15: Rambunctious Recitation ---](https://adventofcode.com/2020/day/15) :star: :star: [Solutions](https://github.com/endiko/advent_of_code_2020/tree/main/15/15-01-02)
 - [x] [--- Day 16: Ticket Translation ---](https://adventofcode.com/2020/day/16) :star: :star: [Solutions](https://github.com/endiko/advent_of_code_2020/tree/main/16)
 - [x] [--- Day 17: Conway Cubes ---](https://adventofcode.com/2020/day/17) :star: :star: [Solutions](https://github.com/endiko/advent_of_code_2020/tree/main/17)
 - [x] [--- Day 18: Operation Order ---](https://adventofcode.com/2020/day/18) :star: [Solutions](https://github.com/endiko/advent_of_code_2020/tree/main/18)
